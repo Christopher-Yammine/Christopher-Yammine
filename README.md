@@ -7,6 +7,7 @@
 
 
 ## 📅 Hobbies
+- Exercising 
 - Watching movies and Tv shows
 - Going on adventures
 - Playing videogames
