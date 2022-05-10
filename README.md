@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Chris</h1>
+<h3 align="center">A software developer from Lebanon</h3>
 
-<!--
-**ChristopherYammine/ChristopherYammine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Ask me about
+- Backend web development
+- Frontend web development 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📅 Hobbies
+- Watching movies and Tv shows
+- Going on adventures
+- Playing videogames
+- Day trading
+- etc
+
+| <a href="https://github.com/ChristopherYammine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristopherYammine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ChristopherYammine's github stats" /></a> | <a href="https://github.com/ChristopherYammine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherYammine&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
