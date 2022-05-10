@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris🦉</h1>
 <h3 align="center">A software developer from Lebanon</h3>
-
+<p align="center">
+<img src="https://tenor.com/view/drake-hotline-bling-dance-dancing-gif-17654506" height="240" width="370">
 ## 💬 Ask me about
 - Backend web development
 - Frontend web development 
