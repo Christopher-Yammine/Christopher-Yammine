@@ -16,7 +16,7 @@
 - Day trading
 - etc
 
-| <a href="https://github.com/ChristopherYammine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristopherYammine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ChristopherYammine's github stats" /></a> | <a href="https://github.com/ChristopherYammine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherYammine&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Christopher-Yammine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Christopher-Yammine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Christopher-Yammine's github stats" /></a> | <a href="https://github.com/Christopher-Yammine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Yammine&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
