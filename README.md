@@ -10,7 +10,7 @@
 
 ## 📅 Hobbies
 - Exercising 
-- Watching movies and Tv shows
+- Watching movies and TV shows
 - Going on adventures
 - Playing videogames
 - Day trading
