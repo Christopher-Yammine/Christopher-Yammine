@@ -11,13 +11,13 @@
 ## 📅 Hobbies
 - Exercising 
 - Watching movies and TV shows
-- Going on adventures
+- Going on adventures 
 - Playing videogames
 - Day trading
 - etc
 
-| <a href="https://github.com/Christopher-Yammine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Christopher-Yammine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Christopher-Yammine's github stats" /></a> | <a href="https://github.com/Christopher-Yammine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Yammine&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Christopher-Yammine&theme=github)
 
-
-
+![Chris's github stats](https://github-readme-stats.vercel.app/api?username=Christopher-Yammine&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Yammine&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Christopher-Yammine/github-readme-stats)
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=Christopher-Yammine&theme=dark&hide_border=true" width = 400>
