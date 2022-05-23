@@ -15,7 +15,6 @@
 - Playing videogames
 - Day trading
 - etc
-cache-control:none;
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Christopher-Yammine&theme=chartreuse-dark)
 ![Chris's github stats](https://github-readme-stats.vercel.app/api?username=Christopher-Yammine&theme=chartreuse-dark)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Yammine&layout=compact&theme=chartreuse-dark)](https://github.com/Christopher-Yammine/github-readme-stats)
