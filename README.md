@@ -16,5 +16,6 @@
 - Day trading
 - etc
 cache-control:none;
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Christopher-Yammine&theme=github)
-![Chris's github stats](https://github-readme-stats.vercel.app/api?username=Christopher-Yammine&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br>
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Christopher-Yammine&theme=chartreuse-dark)
+![Chris's github stats](https://github-readme-stats.vercel.app/api?username=Christopher-Yammine&theme=chartreuse-dark)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Yammine&layout=compact&theme=chartreuse-dark)](https://github.com/Christopher-Yammine/github-readme-stats)
