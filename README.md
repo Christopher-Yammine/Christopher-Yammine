@@ -17,4 +17,4 @@
 
 
 ![Chris's github stats](https://github-readme-stats.vercel.app/api?username=Christopher-Yammine&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Yammine&layout=compact&theme=chartreuse-dark)](https://github.com/Christopher-Yammine/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=christopher-yammine&layout=compact&theme=chartreuse-dark)](https://github.com/Christopher-Yammine/github-readme-stats)
